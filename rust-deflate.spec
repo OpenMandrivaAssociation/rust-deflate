@@ -6,8 +6,8 @@
 %global crate deflate
 
 Name:           rust-%{crate}
-Version:        0.8.2
-Release:        2%{?dist}
+Version:        1.0.0
+Release:        1%{?dist}
 Summary:        DEFLATE, zlib and gzip encoder written in rust
 
 # Upstream license specification: MIT/Apache-2.0
